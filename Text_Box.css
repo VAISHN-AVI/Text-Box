@@ -1,0 +1,45 @@
+.container {
+    margin: 20px auto;
+    width: 80%;
+}
+
+.textboxform {
+    text-align: center;
+}
+
+#text {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 15px 30px; /* Adjust padding to increase button size */
+    margin: 10px; /* Increased margin for better spacing */
+    cursor: pointer;
+    background-color: #4CAF50; /* Default button color */
+    color: white;
+    border: none;
+    border-radius: 8px; /* Rounded corners for buttons */
+    font-size: 16px; /* Adjust font size */
+    transition: background-color 0.3s; /* Smooth transition for background color */
+}
+
+button:hover {
+    background-color: #45a049; /* Change button color on hover */
+}
+
+.heading {
+    color: #333;
+}
+
+#textInfo {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #666;
+}
+
+label {
+    color: #FF5733; /* Adjust label color */
+}s
